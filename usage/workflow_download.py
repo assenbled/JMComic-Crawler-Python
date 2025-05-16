@@ -5,9 +5,11 @@ from jmcomic.cl import JmcomicUI
 jm_albums = '''
 
 
-1151717
-
-
+54747
+28650
+27512
+20348
+47729
 
 
 
